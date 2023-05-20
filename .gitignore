@@ -1,0 +1,10 @@
+/target/
+/ExecutionReports/
+/test-output/
+**/*.log
+**/*.html
+**/*.exe
+/logfile.txt
+/.bin/
+
+
